@@ -197,7 +197,3 @@ disableHugoGeneratorInject = false
     identifier = "talks"
     name       = "Talks"
     url        = "talks/"
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "./resume.pdf/"
