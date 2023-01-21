@@ -1,4 +1,4 @@
-baseURL = "http://cosmo3769.github.io/"
+baseURL = "https://cosmo3769.github.io/"
 title   = "Piyush Thakur"
 languageCode = "en-us"
 theme = "hello-friend-ng"
