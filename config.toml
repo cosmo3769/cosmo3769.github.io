@@ -146,7 +146,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "images/pic.png/"
+    path     = "./images/pic.png"
     alt      = "Portrait"
     maxWidth = "150px"
     
@@ -200,4 +200,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "/resume.pdf/"
+    url        = "./resume.pdf/"
