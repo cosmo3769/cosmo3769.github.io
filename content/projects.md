@@ -24,13 +24,13 @@ This event website was created for the Google Developer Student Clubs NSEC commu
 
 Valuable [Contributors](https://github.com/winterofcode/2021/graphs/contributors)
 
-## Personal
+## Mentored Projects
 
 ---
 
 #### Self Supervised Learning Study
 
-This is an ongoing project where different self supervised learning methods are implememented for fine grained image classification tasks.
+This is an ongoing project where different self supervised learning methods are implemented for fine grained image classification tasks.
 
 * [GitHub](https://github.com/cosmo3769/SSL-study)
 
@@ -40,7 +40,7 @@ Valuable [Contributors](https://github.com/cosmo3769/SSL-study/graphs/contributo
 
 #### Real Time Social Distance Detector
 
-This was an open source event's project conducted by Google Developer Student Clubs(year 2020).
+Here is an [idea](https://github.com/DeepFusionAI/social-distance-detector/blob/master/IDEA.md) behind this project. 
 
 * [Weights and Biases Report](https://wandb.ai/social-distance-detector/real-time-social-distance-detector/reports/Real-Time-Social-Distance-Detector--Vmlldzo0Njc3OTI)
 
@@ -52,10 +52,24 @@ This was an open source event's project conducted by Google Developer Student Cl
 
 Valuable [Contributors](https://github.com/DeepFusionAI/social-distance-detector/graphs/contributors)
 
+## Competition
+
+---
+
 #### HungOver
 
-A website and an app built for Google Solutions Challenge.
+Here is an [idea](https://github.com/cosmo3769/HungOver/blob/master/IDEA.md) behind this project. I along with teammates worked on this project in Google 2021 Solution Challenge.
 
 * [GitHub](https://github.com/cosmo3769/HungOver)
 
 Valuable [Contributors](https://github.com/cosmo3769/HungOver/graphs/contributors)
+
+## Personal
+
+---
+
+#### Image Classification on Browser
+
+Here is an [idea](https://github.com/cosmo3769/mobileNet_node_Browser/blob/master/README.md) behind this project.
+
+* [GitHub](https://github.com/cosmo3769/mobileNet_node_Browser)

@@ -1,6 +1,6 @@
 # About Me
 
-Hello! It's me, Piyush Thakur.
+Hello! It's me, Piyush. :)
 
 ## Experience
 
