@@ -40,7 +40,7 @@ Hello! It's me, Piyush. :)
 
 Developer Advocate Engineer at Hugging Face, Google Developer Expert in ML
 
-March 10, 2021
+March 10, 2021 * [Source - LinkedIn](https://www.linkedin.com/in/cosmo3769/)
 
 > I mentored Piyush during Winter of Code (WoC) 2020 which is an effort led by DSC NSEC to prepare students to strengthen their base in open-source contributions. 
 Piyush was a part of the DeepFusionAI team where the project was to build a social distance detector that can run efficiently in near real-time on tiny devices such as mobile phones and Raspberry Pis. Throughout the tenure of WoC 2020, I found Piyush to be extremely hardworking and disciplined. He has a genuine hunger to improve his solutions and he pursues this endeavor quite fearlessly. Within a very short span of time, Piyush was able to create a clean PoC social distance detector abiding by all the constraints. He graciously incorporated all the feedback other mentors and I had suggested and he even further improved them. 
