@@ -6,8 +6,6 @@ Hello! It's me, Piyush. :)
 
 * Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
 
-* Weights and Biases Author Program 
-
 * Freelancer | Client Support (June 2022 - Present)
 
 ## Skills
