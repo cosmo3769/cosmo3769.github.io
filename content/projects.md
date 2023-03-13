@@ -68,7 +68,7 @@ Valuable [Contributors](https://github.com/cosmo3769/HungOver/graphs/contributor
 
 ---
 
-#### Image Classification on Browser
+#### Image Classification (Web app with TensorFlow.js)
 
 Here is an [idea](https://github.com/cosmo3769/mobileNet_node_Browser/blob/master/README.md) behind this project.
 

@@ -18,8 +18,10 @@ Hello! It's me, Piyush. :)
 
 * Linux
 
+#### Tech Familiar With &darr;
+
   * Python, JavaScript, TypeScript, C, C++
-  * Tensorflow, Keras, ScikitLearn, OpenCV
+  * Tensorflow, Keras, scikit-learn, OpenCV
   * Weights and Biases, Google Colaboratory, Jupyter Notebook 
   * React.js, Redux.js
   * Node.js, Express.js 
@@ -27,6 +29,7 @@ Hello! It's me, Piyush. :)
   * Firebase, Google Cloud Platform
   * HTML, CSS, TailwindCSS, jQuery, Bootstrap, Reactstrap, Material-UI, Fluent-UI
   * MS Power Apps, Backstage
+  * Hugo, Markdown
   * Testing (Unit, Functional, Automation)
   * Git, GitHub, VS Code, Vim, Neovim, Nano
   * Arduino
@@ -44,6 +47,6 @@ March 10, 2021 * [Source - LinkedIn](https://www.linkedin.com/in/cosmo3769/)
 Piyush was a part of the DeepFusionAI team where the project was to build a social distance detector that can run efficiently in near real-time on tiny devices such as mobile phones and Raspberry Pis. Throughout the tenure of WoC 2020, I found Piyush to be extremely hardworking and disciplined. He has a genuine hunger to improve his solutions and he pursues this endeavor quite fearlessly. Within a very short span of time, Piyush was able to create a clean PoC social distance detector abiding by all the constraints. He graciously incorporated all the feedback other mentors and I had suggested and he even further improved them. 
 Apart from his work, I also found Piyush to be a team player and overall a decent person to work with. I wish Piyush all the success in life and I am sure any team would be lucky to have a member like Piyush. 
 
-## Badges I proudly endorse
+## Badges I Proudly Endorse
 
 * [Google Developer Student Clubs NSEC Lead](https://developers.google.com/profile/badges/community/dsc/2021/lead)
