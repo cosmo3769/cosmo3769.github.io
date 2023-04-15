@@ -2,6 +2,8 @@
 
 Hello! It's me, Piyush. :)
 
+I am a full stack web developer, and a deep learning practitioner. 
+
 ## Experience
 
 * Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
@@ -10,9 +12,9 @@ Hello! It's me, Piyush. :)
 
 ## Skills
 
-* Deep Learning | Machine Learning
+* Full Stack Web Development
 
-* Web Development 
+* Deep Learning | Machine Learning
 
 * IoT and Robotics
 
@@ -21,7 +23,7 @@ Hello! It's me, Piyush. :)
 #### Tech Familiar With &darr;
 
   * Python, JavaScript, TypeScript, C, C++
-  * Tensorflow, Keras, scikit-learn, OpenCV
+  * TensorFlow, Keras, scikit-learn, OpenCV
   * Weights and Biases, Google Colaboratory, Jupyter Notebook 
   * React.js, Redux.js
   * Node.js, Express.js 
@@ -30,8 +32,11 @@ Hello! It's me, Piyush. :)
   * HTML, CSS, TailwindCSS, jQuery, Bootstrap, Reactstrap, Material-UI, Fluent-UI
   * MS Power Apps, Backstage
   * Hugo, Markdown
-  * Testing (Unit, Functional, Automation)
-  * Git, GitHub, VS Code, Vim, Neovim, Nano
+  * Testing (Unit, Functional)
+  * CI/CD 
+  * Git, GitHub, GitHub actions
+  * GitHub Pages, Vercel, CloudFlare
+  * VS Code, Vim, Neovim, Nano
   * Arduino
   * arch, i3wm, picom, alacritty
 
