@@ -2,13 +2,22 @@
 
 Hello! It's me, Piyush. :)
 
-I am a full stack web developer, and a deep learning practitioner. 
+I am a full stack web developer, and a deep learning practitioner.
+I work as a freelancer, assisting clients with large-scale cross-platform software projects.
+I contribute to open source projects, with a current focus on [keras](https://keras.io) projects.
+Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contributions.
 
 ## Experience
 
-* Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
-
 * Freelancer | Client Support (June 2022 - Present)
+
+  - Worked on MERN stack and FERN stack projects. 
+  - Worked with Next.js 
+  - Worked with Backstage.
+  - Worked with MS Power apps.
+  - Worked with testing (Unit Testing, Functional Testing)
+
+* Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
 
 ## Skills
 
