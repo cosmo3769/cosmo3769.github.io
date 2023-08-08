@@ -4,14 +4,18 @@ Hello! It's me, Piyush. :)
 
 I am a full stack web developer, and a deep learning practitioner.
 I work as a freelancer, assisting clients with large-scale cross-platform software projects.
+I work as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
 I contribute to open source projects, with a current focus on [keras](https://keras.io) projects.
 Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contributions.
 
 ## Experience
 
+* Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (August 2023 - Present)
+
 * Freelancer | Client Support (June 2022 - Present)
 
   - Worked on MERN stack and FERN stack projects. 
+  - Worked with various design frameworks.
   - Worked with Next.js 
   - Worked with Backstage.
   - Worked with MS Power apps.

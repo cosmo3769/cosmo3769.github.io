@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Freelancer | Ex Google DSC NSEC Lead"
+  homeSubtitle = "Navigating the cosmos 🚀"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -104,6 +104,7 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
+    sitemap = true
     trademark = true
     rss = false
     copyright = false
@@ -197,3 +198,8 @@ disableHugoGeneratorInject = false
     identifier = "talks"
     name       = "Talks"
     url        = "talks/"
+
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
