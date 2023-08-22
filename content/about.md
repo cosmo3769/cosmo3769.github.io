@@ -37,6 +37,7 @@ Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contrib
 
   * Python, JavaScript, TypeScript, C, C++
   * TensorFlow, Keras, scikit-learn, OpenCV
+  * TensorFlow Js, MediaPipe
   * Weights and Biases, Google Colaboratory, Jupyter Notebook 
   * React.js, Redux.js
   * Node.js, Express.js 
