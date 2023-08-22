@@ -43,6 +43,7 @@ Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contrib
   * Node.js, Express.js 
   * mongoDB, mongoose.js
   * Firebase, Google Cloud Platform
+  * Cloudflare, GoDaddy
   * HTML, CSS, TailwindCSS, jQuery, Bootstrap, Reactstrap, Material-UI, Fluent-UI
   * MS Power Apps, Backstage
   * Hugo, Markdown
