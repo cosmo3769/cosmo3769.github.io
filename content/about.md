@@ -12,47 +12,56 @@ Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contrib
 
 * Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (August 2023 - Present)
 
+  - Do projects on AI related topics and write reports. You can find all my published reports here: [Posts](https://cosmo3769.github.io/posts/)
+
 * Freelancer | Client Support (June 2022 - Present)
 
-  - Worked on MERN stack and FERN stack projects. 
-  - Worked with various design frameworks.
-  - Worked with Next.js 
-  - Worked with Backstage.
-  - Worked with MS Power apps.
-  - Worked with testing (Unit Testing, Functional Testing)
+  - Assist professionals at MNCs on large scale cross platform software projects.
+  - Worked on various apps such as ecommerce, developer portals, NFC portal, restaurant management which includes
+    technology like react.js, redux.js, node.js, mongoDB, mongoose.js, firebase, next.js, various design frameworks, postgresql,
+    react-native.
+  - Helped them with building webapps, analytics, multipage forms, writing unit and functional tests, creating user stories,
+    worked on several spike stories.
+  - Built webapps using Backstage and MS Power Apps.
+  - Helped with deployment using Docker, Kubernetes, and Jenkins over different environments (local, DEV, UAT, PROD)
 
 * Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
 
-## Skills
+## Leadership / Volunteer
 
-* Full Stack Web Development
+* Google Developer Student Clubs, NSEC, Kolkata (July 2021 - July 2022)
 
-* Deep Learning | Machine Learning
+  - Led a team of 10+ core members, delegating tasks and ensuring smooth club operations. Nurtured a dynamic
+    community of tech enthusiasts, fostering a collaborative environment for students interested in Google technologies and
+    software development.
+  - Acted as a liaison between the club and Google, representing the interests and needs of the student community, and
+    contributing to the club’s recognition within the global DSC program.
+  - Planned and executed numerous tech-focused events, hands-on workshops, with participation from 700+ students,
+    leading to increased engagement and knowledge sharing within the club.
+  - Successfully organized the ”Winter of Code 2021” event, an open-source event like GSoC (apart from Google agenda),
+    attracting participation from 10+ prominent organizations and 400+ enthusiastic student applicants. Worked closely
+    with a dedicated team to curate a selection of 25+ projects, overseeing their integration into the event and matching
+    them with motivated student contributors.
 
-* IoT and Robotics
+* Google Developer Groups Cloud Community, Kolkata (June 2022 - Aug 2022)
 
-* Linux
+  - Served as a dedicated volunteer and member of the web team for Cloud Community Days 2022, a multi-faceted tech
+    event that brought together professionals, enthusiasts, and organizations spanning various technology domains.
+  - Built an event website which assisted in grabbing a huge audience making an event the largest in eastern India.
 
-#### Tech Familiar With &darr;
+## Technical Skills
 
-  * Python, JavaScript, TypeScript, C, C++
-  * TensorFlow, Keras, scikit-learn, OpenCV
-  * TensorFlow Js, MediaPipe
-  * Weights and Biases, Google Colaboratory, Jupyter Notebook 
-  * React.js, Redux.js
-  * Node.js, Express.js 
-  * mongoDB, mongoose.js
-  * Firebase, Google Cloud Platform
-  * HTML, CSS, TailwindCSS, jQuery, Bootstrap, Reactstrap, Material-UI, Fluent-UI
-  * MS Power Apps, Backstage
-  * Hugo, Markdown
-  * Testing (Unit, Functional)
-  * CI/CD 
-  * Git, GitHub, GitHub actions
-  * GitHub Pages, Vercel, CloudFlare
-  * VS Code, Vim, Neovim, Nano
-  * Arduino
-  * arch, i3wm, picom, alacritty
+* Domain: Full stack web development, Deep Learning/Machine Learning
+
+* Languages: Python, C, C++, JavaScript, Typescript, HTML/CSS/SCSS, Markdown, Sql, LaTex
+
+* Developer Tools: VS Code, git, GitHub, Gitlab, Jira, MS Teams, vim, neovim, nano
+
+* Technologies/Frameworks: TensorFlow, Keras, scikit-learn, OpenCV, TensorFlowJs, MediaPipe, Weights and Biases,
+  Google Colaboratory, Jupyter Notebook, React.js, Redux.js, Node.js, Express.js, Next.js, mongoDB, mongoose.js, Firebase,
+  Google Cloud Platform, TailwindCss, jQuery, Bootstrap, Reactstrap, Material-UI, Fluent-UI, jest, react-testing-library, MS
+  Power Apps, Backstage, Hugo, CI/CD, GitHub actions, GitHub pages, Vercel, Cloudflare, GoDaddy, Arduino, Linux/Arch,
+  i3wm, picom, alacritty, ssh, bash, zsh
 
 ## Recommendations
 
