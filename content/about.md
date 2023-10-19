@@ -14,7 +14,7 @@ Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contrib
 
   - Do projects on AI related topics and write reports. You can find all my published reports here: [Posts](https://cosmo3769.github.io/posts/)
 
-* Freelancer | Client Support (June 2022 - Present)
+* Freelancer | Consultant Developer (June 2022 - Present)
 
   - Assist professionals at MNCs on large scale cross platform software projects.
   - Worked on various apps such as ecommerce, developer portals, NFC portal, restaurant management which includes
@@ -25,7 +25,10 @@ Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contrib
   - Built webapps using Backstage and MS Power Apps.
   - Helped with deployment using Docker, Kubernetes, and Jenkins over different environments (local, DEV, UAT, PROD)
 
-* Google Developer Student Clubs NSEC Lead Kolkata (July 2021 - July 2022)
+* Open Source Contributor
+
+  - Contributed to several open source projects.
+  - Heavily contributed to keras-ecosystem. [keras-cv](https://github.com/keras-team/keras-cv) and [keras-core](https://github.com/keras-team/keras-core)
 
 ## Leadership / Volunteer
 
