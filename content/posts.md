@@ -4,13 +4,13 @@
 
 ---
 
-* [A Gentle Introduction to Q-Learning](https://wandb.ai/cosmo3769/Q-Learning%20/reports/A-Gentle-Introduction-to-Q-Learning--Vmlldzo1NTI1NzE0?accessToken=rbzwxcl0081142zwteb3gnssfv0npw0r9t09jgousebjnyde27ntg6sbj7e5c31v)
+* [What is Q-Learning?](https://api.wandb.ai/links/cosmo3769/45ywqzs2)
 
-* [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://wandb.ai/cosmo3769/RAG/reports/A-Gentle-Introduction-to-Retrieval-Augmented-Generation-RAG---Vmlldzo1MjM4Mjk1)
+* [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://api.wandb.ai/links/cosmo3769/xheb9wxn)
 
-* [Sentiment Analysis with Bag of Tricks](https://wandb.ai/piyush_dev/bag_of_tricks/reports/Sentiment-Analysis-with-Bag-of-Tricks--Vmlldzo1Nzg1OTE)
+* [Sentiment Analysis with Bag of Tricks](https://api.wandb.ai/links/piyush_dev/ulfvwetz)
 
-* [Real Time Social Distance Detector](https://wandb.ai/social-distance-detector/real-time-social-distance-detector/reports/Real-Time-Social-Distance-Detector--Vmlldzo0Njc3OTI)
+* [Real Time Social Distance Detector](https://api.wandb.ai/links/social-distance-detector/dvtvqmjx)
 
 ## Personal
 
