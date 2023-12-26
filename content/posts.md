@@ -4,6 +4,8 @@
 
 ---
 
+* [Q-Learning: Implementation Part](https://wandb.ai/cosmo3769/Q-Learning%20/reports/Q-Learning-Implementation-Part---Vmlldzo1OTUxNTI4)
+
 * [What is Q-Learning?](https://api.wandb.ai/links/cosmo3769/45ywqzs2)
 
 * [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://api.wandb.ai/links/cosmo3769/xheb9wxn)
