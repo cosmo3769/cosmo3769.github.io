@@ -4,7 +4,7 @@
 
 ---
 
-* [Q-Learning: Implementation Part](https://wandb.ai/cosmo3769/Q-Learning%20/reports/Q-Learning-Implementation-Part---Vmlldzo1OTUxNTI4)
+* [Q-Learning: Implementation](https://api.wandb.ai/links/cosmo3769/moetfvyl)
 
 * [What is Q-Learning?](https://api.wandb.ai/links/cosmo3769/45ywqzs2)
 

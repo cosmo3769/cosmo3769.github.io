@@ -6,7 +6,12 @@ I am a full stack web developer, and a deep learning practitioner.
 I work as a freelancer, assisting clients with large-scale cross-platform software projects.
 I work as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
 I contribute to open source projects, with a current focus on [keras](https://keras.io) projects.
-Here is my [GitHub Profile](https://github.com/cosmo3769) showing all my contributions.
+
+* [Mail](mailto:piyushthakur3769@gmail.com)
+* [GitHub](https://github.com/cosmo3769)
+* [WandB](https://wandb.ai/cosmo3769)
+* [LinkedIn](https://www.linkedin.com/in/cosmo3769/)
+* [Twitter](https://twitter.com/cosmo3769)
 
 ## Experience
 
