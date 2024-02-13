@@ -5,7 +5,7 @@ Hello! It's me, Piyush. :)
 I am a full stack web developer, and a deep learning practitioner.
 I work as a freelancer, assisting clients with large-scale cross-platform software projects.
 I work as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
-I contribute to open source projects, with a current focus on [keras](https://keras.io) projects.
+I contribute to open source projects, with a current focus on [HuggingFace](https://huggingface.co) & [keras](https://keras.io) projects.
 
 * [Mail](mailto:piyushthakur3769@gmail.com)
 * [GitHub](https://github.com/cosmo3769)
@@ -34,6 +34,7 @@ I contribute to open source projects, with a current focus on [keras](https://ke
 
   - Contributed to several open source projects.
   - Heavily contributed to keras-ecosystem. [keras-cv](https://github.com/keras-team/keras-cv) and [keras-core](https://github.com/keras-team/keras-core)
+  - Started contributing to [HuggingFace Diffusers](https://github.com/huggingface/diffusers).
 
 ## Leadership / Volunteer
 
