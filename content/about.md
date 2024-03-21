@@ -24,7 +24,7 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
   - Do projects on AI related topics and write reports. You can find all my published reports here: [Posts](https://cosmo3769.github.io/posts/)
 
-* Freelancer | Consultant Developer (June 2022 - Present)
+* Full Stack Web Developer, Freelance Client Support (June 2022 - Present)
 
   - Assist professionals at MNCs on large scale cross platform software projects.
   - Worked on various apps such as ecommerce, developer portals, NFC portal, restaurant management which includes
