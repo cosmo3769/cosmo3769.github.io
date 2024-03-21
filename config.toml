@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[params.author]
+[author]
   name = "Piyush Thakur"
 
 [blackfriday]
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Independent Contractor @wandb | Open Source Contributor | Freelancer"
+  homeSubtitle = "AI/ML Research Engineer, Studio Publisher @lightning-ai | Open Source Contributor | Freelancer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

@@ -2,9 +2,10 @@
 
 Hello! It's me, Piyush. :)
 
-I am a full stack web developer, and a deep learning practitioner.
+I am a full stack web developer, and a deep learning practitioner. 
+I work as an AI/ML Research Engineer, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) publishing open source studio templates for AI/ML projects.
 I work as a freelancer, assisting clients with large-scale cross-platform software projects.
-I work as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
+I worked as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
 I contribute to open source projects, with a current focus on [HuggingFace](https://huggingface.co) & [keras](https://keras.io) projects.
 
 * [Mail](mailto:piyushthakur3769@gmail.com)
@@ -15,7 +16,11 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 ## Experience
 
-* Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (August 2023 - Present)
+* AI/ML Research Engineer, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) (March 2024 - Present)
+
+  - Building open source templates for AI projects - Lightning AI Studios Publishers initiative
+
+* Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (Sep 2023 - Feb 2024)
 
   - Do projects on AI related topics and write reports. You can find all my published reports here: [Posts](https://cosmo3769.github.io/posts/)
 
