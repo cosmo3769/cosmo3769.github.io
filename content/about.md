@@ -4,7 +4,7 @@ Hello! It's me, Piyush. :)
 
 I am a full stack web developer, and a deep learning practitioner. 
 I work as an AI/ML Research Engineer, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) publishing open source studio templates for AI/ML projects.
-I work as a freelancer, assisting clients with large-scale cross-platform software projects.
+I work as a freelance full stack web developer, assisting clients with large-scale cross-platform software projects.
 I worked as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
 I contribute to open source projects, with a current focus on [HuggingFace](https://huggingface.co) & [keras](https://keras.io) projects.
 
