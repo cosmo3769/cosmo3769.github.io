@@ -88,6 +88,10 @@ Applied Post-Training Quantization techniques on LLM models. Compared quantized 
 * [GitHub](https://github.com/cosmo3769/Quantized-LLMs)
 * [Pushed Quantized models to HuggingFace](https://huggingface.co/cosmo3769)
 
+Tech Stack :->
+
+* LLM, Auto-GPTQ, llama.cpp, lm-evaluation-harness, bigcode-evaluation-harness, swift-ui
+
 #### **[PDFChatter](https://pdf-chatter-beta.vercel.app)**
 
 A locally running PDF chatbot where users can upload their documentation in pdf format and chat about it. It's a Next.js app that read the content of an uploaded PDF, chunks it, adds it to a vector store, and performs RAG, all client side. You can even turn off your WiFi after the site loads.
@@ -97,7 +101,7 @@ A locally running PDF chatbot where users can upload their documentation in pdf 
 
 Tech Stack :->
 
-* Chroma, Ollama, Langchain.js, Transformers.js, Docker, Next.js, TailwindCSS, Vercel
+* LLM, Ollama, Langchain.js, Transformers.js, Chroma, Docker, Next.js, TailwindCSS, Vercel
 
 #### **Handlanmark detection**
 
