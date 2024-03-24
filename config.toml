@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "AI/ML Research Engineer, Studio Publisher @LightningAI | Open Source Contributor | Freelancer"
+  homeSubtitle = "AI/ML, Studio Publisher @LightningAI | Open Source Contributor | Freelancer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

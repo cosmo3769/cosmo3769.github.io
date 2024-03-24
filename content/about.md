@@ -16,11 +16,11 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 ## Experience
 
-* AI/ML Research Engineer, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) (March 2024 - Present)
+* AI/ML, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) (March 2024 - Present)
 
   - Building open source templates for AI projects - Lightning AI Studios Publishers initiative
 
-* Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (Sep 2023 - Feb 2024)
+* AI/ML, Independent Contractor at [Weights and Biases](https://wandb.ai/cosmo3769) (Sep 2023 - Feb 2024)
 
   - Do projects on AI related topics and write reports. You can find all my published reports here: [Posts](https://cosmo3769.github.io/posts/)
 
