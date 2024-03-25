@@ -4,7 +4,7 @@
 
 ---
 
-Coming Soon ...
+* [Post-Training Quantization to GPTQ format and Evaluation](https://lightning.ai/cosmo3769/studios/post-training-quantization-to-gptq-format-and-evaluation?section=featured&query=Post)
 
 ## Weights and Biases 
 
