@@ -10,6 +10,7 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 * [Mail](mailto:piyushthakur3769@gmail.com)
 * [GitHub](https://github.com/cosmo3769)
+* [Lightning AI](https://lightning.ai/cosmo3769)
 * [WandB](https://wandb.ai/cosmo3769)
 * [LinkedIn](https://www.linkedin.com/in/cosmo3769/)
 * [Twitter](https://twitter.com/cosmo3769)
