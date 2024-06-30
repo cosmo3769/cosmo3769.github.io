@@ -82,7 +82,7 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 [Sayak Paul](https://sayak.dev)
 
-Developer Advocate Engineer at Hugging Face, Google Developer Expert in ML
+ML Engineer at Hugging Face, Google Developer Expert in ML
 
 March 10, 2021 * [Source - LinkedIn](https://www.linkedin.com/in/cosmo3769/)
 
