@@ -80,6 +80,14 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 ## Recommendations
 
+[Soumik Rakshit](https://geekyrakshit.dev)
+
+ML Engineer at Weights & Biases, Google Developer Expert in ML
+
+July 26, 2024 * [Source - LinkedIn](https://www.linkedin.com/in/cosmo3769/)
+
+> Piyush is an immensely talented engineer with a strong work ethic. I had the pleasure of collaborating with him on several personal side projects, and every time he delivered the work, he demonstrated a strong knowledge of deep learning and computer science. Piyush is one of those rare individuals who brings good software engineering practices and experience in machine learning, making him a valuable asset for any technical team.
+
 [Sayak Paul](https://sayak.dev)
 
 ML Engineer at Hugging Face, Google Developer Expert in ML
