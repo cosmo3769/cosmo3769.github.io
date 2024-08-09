@@ -38,8 +38,7 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 * Open Source Contributor
 
-  - Contributed to several open source projects.
-  - Heavily contributed to keras-ecosystem. [keras-cv](https://github.com/keras-team/keras-cv) and [keras-core](https://github.com/keras-team/keras-core)
+  - Made significant contribution to keras-ecosystem. [keras-cv](https://github.com/keras-team/keras-cv/pulls?q=is%3Apr+is%3Aclosed+author%3Acosmo3769), [keras-core](https://github.com/keras-team/keras-core/pulls?q=is%3Apr+is%3Aclosed+author%3Acosmo3769), and [keras-nlp](https://github.com/keras-team/keras-nlp/pulls?q=is%3Apr+author%3Acosmo3769+is%3Aclosed)
   - Started contributing to [HuggingFace Diffusers](https://github.com/huggingface/diffusers).
 
 ## Leadership / Volunteer
