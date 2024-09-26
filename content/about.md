@@ -2,11 +2,7 @@
 
 Hello! It's me, Piyush. :)
 
-I am a full stack web developer, and a deep learning practitioner. 
-I work as an AI/ML Research Engineer, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home) publishing open source studio templates for AI/ML projects.
-I work as a freelance full stack web developer, assisting clients with large-scale cross-platform software projects.
-I worked as an independent contractor at [Weights and Biases](https://wandb.ai/cosmo3769) writing and publishing reports on deep learning topics.
-I contribute to open source projects, with a current focus on [HuggingFace](https://huggingface.co) & [keras](https://keras.io) projects.
+I am a Machine Learning Engineer at [PyImageSearch](https://pyimagesearch.com) and also work as a freelance Full Stack Web Developer, assisting clients with large-scale, cross-platform software projects. Previously, I worked as an AI/ML Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769/home), where I published open-source studio templates for AI/ML projects. I’ve also been an independent contractor with [Weights and Biases](https://wandb.ai/cosmo3769), writing and publishing reports on deep learning topics. I actively contribute to open-source projects, with a current focus on [HuggingFace](https://huggingface.co) and [keras](https://keras.io).
 
 * [Mail](mailto:piyushthakur3769@gmail.com)
 * [GitHub](https://github.com/cosmo3769)
@@ -17,7 +13,9 @@ I contribute to open source projects, with a current focus on [HuggingFace](http
 
 ## Experience
 
-* AI/ML, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769) (March 2024 - Present)
+* Machine Learning Engineer at [PyImageSearch](https://pyimagesearch.com) (Sep 2024 - Present)
+
+* AI/ML, Studio Publisher at [Lightning AI](https://lightning.ai/cosmo3769) (March 2024 - Sep 2024)
 
   - Building open source templates for AI projects - Lightning AI Studios Publishers initiative. You can find all my published studios here: [Lightning Studios](https://lightning.ai/cosmo3769)
 
