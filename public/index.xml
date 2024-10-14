@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piyush Thakur</title>
-    <link>https://cosmo3769.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Piyush Thakur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <atom:link href="https://cosmo3769.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://cosmo3769.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cosmo3769.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hello! It&amp;rsquo;s me, Piyush. :)&lt;/p&gt;&#xA;&lt;p&gt;I am a Machine Learning Engineer at &lt;a href=&#34;https://pyimagesearch.com&#34;&gt;PyImageSearch&lt;/a&gt; and also work as a freelance Full Stack Web Developer, assisting clients with large-scale, cross-platform software projects. Previously, I worked as an AI/ML Studio Publisher at &lt;a href=&#34;https://lightning.ai/cosmo3769/home&#34;&gt;Lightning AI&lt;/a&gt;, where I published open-source studio templates for AI/ML projects. I’ve also been an independent contractor with &lt;a href=&#34;https://wandb.ai/cosmo3769&#34;&gt;Weights and Biases&lt;/a&gt;, writing and publishing reports on deep learning topics. I actively contribute to open-source projects, with a current focus on &lt;a href=&#34;https://huggingface.co&#34;&gt;HuggingFace&lt;/a&gt; and &lt;a href=&#34;https://keras.io&#34;&gt;keras&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://cosmo3769.github.io/posts/</link>
+      <link>http://localhost:1313/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cosmo3769.github.io/posts/</guid>
+      <guid>http://localhost:1313/posts/</guid>
       <description>&lt;h1 id=&#34;posts&#34;&gt;Posts&lt;/h1&gt;&#xA;&lt;h2 id=&#34;lightning-ai&#34;&gt;Lightning AI&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lightning.ai/cosmo3769/studios/s3d-mil-nce-text-to-video-retrieval&#34;&gt;S3D MIL-NCE: Text-to-Video Retrieval&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lightning.ai/cosmo3769/studios/post-training-quantization-to-gguf-format-and-evaluation&#34;&gt;Post-Training Quantization to GGUF format and Evaluation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lightning.ai/cosmo3769/studios/post-training-quantization-to-gptq-format-and-evaluation&#34;&gt;Post-Training Quantization to GPTQ format and Evaluation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;weights-and-biases&#34;&gt;Weights and Biases&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.wandb.ai/links/cosmo3769/moetfvyl&#34;&gt;Q-Learning: Implementation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.wandb.ai/links/cosmo3769/45ywqzs2&#34;&gt;What is Q-Learning?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.wandb.ai/links/cosmo3769/xheb9wxn&#34;&gt;A Gentle Introduction to Retrieval Augmented Generation (RAG)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.wandb.ai/links/piyush_dev/ulfvwetz&#34;&gt;Sentiment Analysis with Bag of Tricks&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://api.wandb.ai/links/social-distance-detector/dvtvqmjx&#34;&gt;Real Time Social Distance Detector&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;personal&#34;&gt;Personal&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://tech-a-way-blog.vercel.app/policy_gradients_rl.html&#34;&gt;A Tour Of Policy Gradients&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://cosmo3769.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cosmo3769.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;community-contributions&#34;&gt;Community Contributions&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;cloud-community-days-kolkata-2022-websitehttpsgdgcloudkolkatadevccd2022&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://gdgcloud.kolkata.dev/ccd2022/&#34;&gt;Cloud Community Days Kolkata 2022 Website&lt;/a&gt;&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Contributed to building an event website for the Google Developer Group Cloud Kolkata Community, aiding in attracting a substantial audience and making the event the largest in eastern India.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gdgcloud.kolkata.dev/ccd2022/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/gdgcloudkol/ccd2022&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Valuable &lt;a href=&#34;https://github.com/gdgcloudkol/ccd2022/graphs/contributors&#34;&gt;Contributors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tech Stack :-&amp;gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;TS/JS, React.js, TailwindCSS, Firebase, GitHub Pages&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;winter-of-code-2021-websitehttpswinterofcodecom2021&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://winterofcode.com/2021/&#34;&gt;Winter of Code 2021 Website&lt;/a&gt;&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Built an event website for Google DSC NSEC, titled ’Winter of Code,’ a month-long open-source event similar to GSoC.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://cosmo3769.github.io/talks/</link>
+      <link>http://localhost:1313/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cosmo3769.github.io/talks/</guid>
+      <guid>http://localhost:1313/talks/</guid>
       <description>&lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;&#xA;&lt;h4 id=&#34;winter-of-code-an-introductory-session&#34;&gt;Winter of Code: An Introductory Session&lt;/h4&gt;&#xA;&lt;p&gt;Talked about open source. Instructed on how to contribute to open source and write proposal for a month long open source event titled &amp;lsquo;Winter of Code&amp;rsquo;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Medium: Google Meet&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7155642428425728000&#34;&gt;Hosted by Google DSC NSEC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Co-speaker - &lt;a href=&#34;https://github.com/ayush-AI&#34;&gt;Ayush&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;hands-on-git-and-github-day-1&#34;&gt;Hands-on git and GitHub: Day 1&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Medium: &lt;a href=&#34;https://youtu.be/DKVwpo2boz4&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Co-speaker - &lt;a href=&#34;https://github.com/ayush-AI&#34;&gt;Ayush&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;hands-on-git-and-github-day-2&#34;&gt;Hands-on git and GitHub: Day 2&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Medium: &lt;a href=&#34;https://youtu.be/bTaImoduy0A&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Co-speaker - &lt;a href=&#34;https://github.com/ayush-AI&#34;&gt;Ayush&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

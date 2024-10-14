@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Machine Learning Engineer @PyImageSearch | Open Source Contributor | Freelancer"
+  homeSubtitle = "MLE @PyImageSearch | Full Stack Web Developer | Open Source"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -105,7 +105,7 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     sitemap = true
-    trademark = true
+    trademark = 2024
     rss = false
     copyright = false
     author = true
