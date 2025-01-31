@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+pagination.pagerSize  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -36,7 +36,7 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
+[params.author]
   name = "Piyush Thakur"
 
 [blackfriday]
@@ -105,7 +105,7 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     sitemap = true
-    trademark = 2024
+    trademark = 2025
     rss = false
     copyright = false
     author = true
