@@ -4,6 +4,10 @@
 
 ---
 
+* [Building an AI PDF Summarizer: Chat with Graphic PDFs] [Coming Soon]
+
+* [Understand How AI PDF Summarizers Work: Chat with Graphic PDFs] [Coming Soon]
+
 * [Getting Started with YOLO11](https://pyimagesearch.com/2025/01/13/getting-started-with-yolo11/)
 
 * [Deploy Gradio Apps on Hugging Face Spaces](https://pyimagesearch.com/2024/12/30/deploy-gradio-apps-on-hugging-face-spaces/)
