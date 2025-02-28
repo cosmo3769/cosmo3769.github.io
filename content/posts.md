@@ -4,9 +4,9 @@
 
 ---
 
-* [Building an AI PDF Summarizer: Chat with Graphic PDFs] [Coming Soon]
+* [Building an AI PDF Summarizer: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/24/chat-with-graphic-pdfs-building-an-ai-pdf-summarizer/)
 
-* [Understand How AI PDF Summarizers Work: Chat with Graphic PDFs] [Coming Soon]
+* [Understand How AI PDF Summarizers Work: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/17/chat-with-graphic-pdfs-understand-how-ai-pdf-summarizers-work/)
 
 * [Getting Started with YOLO11](https://pyimagesearch.com/2025/01/13/getting-started-with-yolo11/)
 
