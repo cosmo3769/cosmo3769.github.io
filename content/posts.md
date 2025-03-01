@@ -4,6 +4,14 @@
 
 ---
 
+* [Enhancing Safety: Detecting Hazards with PaliGemma in Construction] [Coming Soon]
+
+* [AI for Healthcare: Brain Tumor Detection with PaliGemma] [Coming Soon]
+
+* [Object Detection in Gaming: Detecting Valorant Objects with PaliGemma] [Coming Soon]
+
+* [Object Detection with PaliGemma] [Coming Soon]
+
 * [Building an AI PDF Summarizer: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/24/chat-with-graphic-pdfs-building-an-ai-pdf-summarizer/)
 
 * [Understand How AI PDF Summarizers Work: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/17/chat-with-graphic-pdfs-understand-how-ai-pdf-summarizers-work/)
