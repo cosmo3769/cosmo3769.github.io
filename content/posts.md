@@ -4,17 +4,21 @@
 
 ---
 
-* [Enhancing Safety: Detecting Hazards with PaliGemma in Construction] [Coming Soon]
+* [Generating Video Highlights Using the SmolVLM2 Model](https://pyimagesearch.com/2025/06/30/generating-video-highlights-using-the-smolvlm2-model/)
 
-* [AI for Healthcare: Brain Tumor Detection with PaliGemma] [Coming Soon]
+* [SmolVLM to SmolVLM2: Compact Models for Multi-Image VQA](https://pyimagesearch.com/2025/06/23/smolvlm-to-smolvlm2-compact-models-for-multi-image-vqa/)
 
-* [Object Detection in Gaming: Detecting Valorant Objects with PaliGemma] [Coming Soon]
+* [AI for Healthcare: Fine-Tuning Google’s PaliGemma 2 for Brain Tumor Detection](https://pyimagesearch.com/2025/05/26/ai-for-healthcare-fine-tuning-googles-paligemma-2-for-brain-tumor-detection/)
 
-* [Object Detection with PaliGemma] [Coming Soon]
+* [Object Detection in Gaming: Fine-Tuning Google’s PaliGemma 2 for Valorant](https://pyimagesearch.com/2025/04/28/object-detection-in-gaming-fine-tuning-googles-paligemma-2-for-valorant/)
 
-* [Building an AI PDF Summarizer: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/24/chat-with-graphic-pdfs-building-an-ai-pdf-summarizer/)
+* [Object Detection with the PaliGemma 2 Model](https://pyimagesearch.com/2025/04/14/object-detection-with-the-paligemma-2-model/)
 
-* [Understand How AI PDF Summarizers Work: Chat with Graphic PDFs](https://pyimagesearch.com/2025/02/17/chat-with-graphic-pdfs-understand-how-ai-pdf-summarizers-work/)
+* [Configure Your Hugging Face Access Token in Colab Environment](https://pyimagesearch.com/2025/04/04/configure-your-hugging-face-access-token-in-colab-environment/)
+
+* [Chat with Graphic PDFs: Building an AI PDF Summarizer](https://pyimagesearch.com/2025/02/24/chat-with-graphic-pdfs-building-an-ai-pdf-summarizer/)
+
+* [Chat with Graphic PDFs: Understand How AI PDF Summarizers Work](https://pyimagesearch.com/2025/02/17/chat-with-graphic-pdfs-understand-how-ai-pdf-summarizers-work/)
 
 * [Getting Started with YOLO11](https://pyimagesearch.com/2025/01/13/getting-started-with-yolo11/)
 

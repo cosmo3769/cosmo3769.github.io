@@ -6,6 +6,7 @@ I am a Machine Learning Engineer at [PyImageSearch](https://pyimagesearch.com) a
 
 * [Mail](mailto:piyushthakur3769@gmail.com)
 * [GitHub](https://github.com/cosmo3769)
+* [PyImageSearch](https://pyimagesearch.com/author/p-thakur/)
 * [Lightning AI](https://lightning.ai/cosmo3769)
 * [WandB](https://wandb.ai/cosmo3769)
 * [LinkedIn](https://www.linkedin.com/in/cosmo3769/)
